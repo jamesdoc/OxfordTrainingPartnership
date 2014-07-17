@@ -101,36 +101,6 @@
             <h2>Contact</h2>
         
             <p>If you would like to know how to apply, or just simply want to find out more information please contact Dan by sending an email to: <a href="mailto:dan@oxfordtrainingpartnership.org.uk" target="_blank">dan@oxfordtrainingpartnership.org.uk</a>.</p>
-        
-            <?/*<form method="post">
-            
-                <p>
-                    <label for="txtText">Your name:</label>
-                    <input type="text" name="txtText" id="txtText" placeholder="First name and family name please..." />
-                </p>
-                
-                <p>
-                    <label for="txtEmail">Your email: <em>(we want to be able to write back)</em></label>
-                    <input type="email" name="txtEmail" id="txtEmail" placeholder="The one you check most often" />
-                </p>
-                
-                <p>
-                    <label for="txtMessage">Your message:</label>
-                    <textarea name="txtMessage" id="txtMessage"></textarea>
-                </p>
-                
-                <p>
-                    <label for="chkCC" class="checkbox">
-                        <input type="checkbox" name="chkCC" id="chkCC" />
-                        Please send me a copy of this message.
-                    </label>
-                </p>
-                
-                <p>
-                    <input type="submit" name="btnSend" id="btnSend" value="Send!" class="btn" />
-                </p>
-            
-            </form>*/?>
         </section>
     
     </div>
